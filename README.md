@@ -1,4 +1,4 @@
-This readme is still a work in progress readme.
+This readme should be treated as "WORK IN PROGRESS"
 
 Up until now, we have made a Job Application Management System:
 
