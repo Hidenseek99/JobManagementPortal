@@ -33,6 +33,12 @@ Future Scope and Remaining Implementation:<br />
 3. Implementing bootstrap css in the application to ensure user-friendly behaviour.<br />
 4. Using Swal-Fire popups of MDN for interactive behaviour of the UI.<br />
 
-Feel free to share any suggestions regarding the project on<br />
+Feel free to share any suggestions regarding the project on:<br />
 <br />
 pranav.bhavsar@flexur.com
+
+References : <br />
+https://www.c-sharpcorner.com/article/how-to-add-authentication-in-asp-net-core-6-mvc-project-using-identity<br />
+https://vocal.media/geeks/how-to-connect-sql-server-database-in-asp-net-core-mvc<br />
+https://www.c-sharpcorner.com/article/authentication-filter-in-mvc-with-an-example/<br />
+https://learn.microsoft.com/en-us/aspnet/mvc/<br />
